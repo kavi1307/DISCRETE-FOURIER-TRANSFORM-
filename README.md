@@ -37,9 +37,25 @@ subplot(3,1,3);
 plot2d3(n,abs(Y));
 xlabel("k"); ylabel("|Y(k)|");
 title("FFT Magnitude Spectrum (Built-in)");
-///
+///   
+
+
+
+
+
 OUTPUT:
+
+
+
+
 <img width="635" height="503" alt="image" src="https://github.com/user-attachments/assets/05a5a892-3081-48c0-92ac-d44143ba58b3" />
 
+
+
+
+
 RESULT:
+
+
+
 Thus we have obtained the output.
